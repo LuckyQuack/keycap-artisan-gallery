@@ -21,7 +21,6 @@ const Home = () => {
               <div className='home-description'>
                 <p>This is a small project website for my artisan keycap photos.</p>
                 <p>The idea is to continue updating this page with new photos and better design.</p>
-                <p>My wishlist is also here, mainly looking for bathory and sad doom.</p> 
               </div>
             </>
           } />
